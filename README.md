@@ -6,4 +6,4 @@ We have range of industry accelerators that shortens the time to value and chang
 
 We believe people sometimes underestimate the power of targeted solutions for specific use cases over generic solutions. We pride ourselves working with customers on specific problems, create interoperable solutions that integrate with existing customer landscape and plan for analytical maturity over time using our approach to customer success.
 
-To know more about us and our work please visit our website (https://7dxperts.com/)
+To know more about us and our work please visit our website https://7dxperts.com/
